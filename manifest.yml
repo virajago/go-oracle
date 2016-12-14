@@ -1,0 +1,7 @@
+---
+applications:
+  - name: go-oracle
+    instances: 1
+    memory: 64M
+    env:
+      GOPACKAGENAME: go-oracle
